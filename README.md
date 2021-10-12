@@ -8,7 +8,9 @@
 ## :heavy_check_mark: Last week summary
  <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Groovy     15 mins         ██████████████▓░░░░░░░░░░   58.48 % 
+Kotlin     9 mins          █████████░░░░░░░░░░░░░░░░   36.61 % 
+Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 <!--END_SECTION:waka-->
 
